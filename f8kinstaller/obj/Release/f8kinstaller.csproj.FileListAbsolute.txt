@@ -1,0 +1,11 @@
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\bin\Release\f8kinstaller.exe.config
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\bin\Release\f8kinstaller.exe
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\bin\Release\f8kinstaller.pdb
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.csproj.AssemblyReference.cache
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.Form1.resources
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.Properties.Resources.resources
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.csproj.GenerateResource.cache
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.csproj.CoreCompileInputs.cache
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.exe
+C:\Users\piotreczkoland14\source\repos\f8kinstaller\f8kinstaller\obj\Release\f8kinstaller.pdb
